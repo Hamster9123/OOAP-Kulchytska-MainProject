@@ -4,6 +4,7 @@ import timeit
 import time
 
 #изменения для ветки ALFA
+#Зміни_1
 
 class Matrix:
     def __init__(self, value=None):
