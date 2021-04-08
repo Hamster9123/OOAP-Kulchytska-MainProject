@@ -3,6 +3,7 @@ import csv
 import timeit
 import time
 
+#изменения для ветки ALFA
 
 class Matrix:
     def __init__(self, value=None):
@@ -168,6 +169,7 @@ def main():
     end = time.time()
     print(f"operation a + b takes {(end - start) * 1_000_000} microseconds")
     print(temp)
+    print("Змінено з PyCharm")
     # print('\n')
     # print(a + 7)
     # print('\n')
