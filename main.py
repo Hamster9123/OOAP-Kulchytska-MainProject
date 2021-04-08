@@ -170,7 +170,7 @@ def main():
     end = time.time()
     print(f"operation a + b takes {(end - start) * 1_000_000} microseconds")
     print(temp)
-    print("Змінено з IDE")
+    print("Змінено з браузера")
     # print('\n')
     # print(a + 7)
     # print('\n')
