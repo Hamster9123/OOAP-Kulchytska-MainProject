@@ -5,6 +5,7 @@ import time
 
 #изменения для ветки ALFA
 #Зміни_1
+#змінено з браузеру
 
 class Matrix:
     def __init__(self, value=None):
