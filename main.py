@@ -7,7 +7,9 @@ import time
 #Зміни_1
 #змінено з IDE
 
+#змінено з браузеру
 
+#конфлікт вирішено 9.04
 class Matrix:
     def __init__(self, value=None):
         self._data = value
